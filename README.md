@@ -1,6 +1,6 @@
 ##  Hi there 👋, It,s me Dinesh
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Node.js,Express.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dineshdb036@gmail.com 
 
