@@ -6,11 +6,11 @@
 - 📫 How to reach me : dineshbca036@gmail.com
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img width="50" height="50" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/><img width="50" height="50" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
+
+
+
+
 
 
 <!---
